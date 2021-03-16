@@ -99,7 +99,7 @@ Original App Design Project - README Template
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="Tahea @ University of California Merced.pdf![image](https://user-images.githubusercontent.com/41087907/111268788-fc7faf80-85ea-11eb-87d1-1feb0ff4493c.png)
+<img src="https://user-images.githubusercontent.com/41087907/111268788-fc7faf80-85ea-11eb-87d1-1feb0ff4493c.png
 " width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
