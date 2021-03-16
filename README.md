@@ -98,7 +98,7 @@ Original App Design Project - README Template
     *  [accessed from bottom tab]
 
 ## Wireframes
-<img src="https://user-images.githubusercontent.com/41087907/111268788-fc7faf80-85ea-11eb-87d1-1feb0ff4493c.png
+<img src="http://g.recordit.co/NVU4KOr66X.gif
 " width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
