@@ -99,7 +99,7 @@ Original App Design Project - README Template
 
 ## Wireframes
 <img src="http://g.recordit.co/NVU4KOr66X.gif
-" width=600>
+">
 
 ### [BONUS] Digital Wireframes & Mockups
 
