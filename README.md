@@ -99,7 +99,7 @@ Original App Design Project - README Template
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://merced-my.sharepoint.com/:o:/g/personal/thossain5_ucmerced_edu/EqxrqV7Mn7JEkSbBoRjE62cBmrQh_UcjoU2TdDBLJ0W_MQ?e=2bZtuK" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
