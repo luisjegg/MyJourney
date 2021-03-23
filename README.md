@@ -107,6 +107,7 @@ Original App Design Project - README Template
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-<img src="file:///Users/luiscarrillo/Downloads/Network%20requests%20by%20screen.pdf" width=800><br>
+<img src='http://g.recordit.co/HjSg5Ysypc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ### Networking
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src='http://g.recordit.co/V9yt97LAwy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/PsEkB4jZLl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
