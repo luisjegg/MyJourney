@@ -107,7 +107,7 @@ Original App Design Project - README Template
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+<img src='http://g.recordit.co/HjSg5Ysypc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
