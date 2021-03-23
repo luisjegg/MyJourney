@@ -107,8 +107,6 @@ Original App Design Project - README Template
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-<img src='http://g.recordit.co/HjSg5Ysypc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="file:///Users/luiscarrillo/Downloads/Network%20requests%20by%20screen.pdf" width=800><br>
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
