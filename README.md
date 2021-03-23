@@ -99,11 +99,6 @@ Original App Design Project - README Template
 
 ## Wireframes
 <img src='http://g.recordit.co/NVU4KOr66X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
